@@ -1,0 +1,32 @@
+1. Projeto Individual
+Este projeto é de caráter individual. Cada aluno deve desenvolvê-lo por conta própria, podendo buscar ajuda para dúvidas, mas a implementação deve ser original e independente.
+
+2. Prazo de Entrega
+O prazo de entrega será após as férias, com a data exata a ser definida em sala de aula.
+
+3. Linguagem de Programação
+O projeto deverá ser escrito em Python.
+
+4. Tema do Projeto
+Você deve escolher um tema criativo para o seu projeto. Uma sugestão é se basear em algum Projeto Integrador (P.I.) que você tenha interesse em desenvolver. O mais importante é que o tema escolhido permita aplicar os conceitos de desenvolvimento abordados em aula.
+
+5. Estrutura de Telas
+O projeto deve conter 4 telas. A primeira será a tela de login/autenticação (detalhada na regra 6), e as outras 3 telas serão definidas com base no tema do seu projeto.
+
+6. Sistema de Login/Autenticação
+É obrigatório que o projeto tenha uma tela de login/autenticação funcional. Essa tela já contará como uma das quatro exigidas.
+
+7. CRUD Completo
+Nas 3 telas restantes, deve haver um CRUD (Create, Read, Update, Delete). Isso é obrigatório.
+
+8. Relacionamento de Tabelas
+Seu sistema deve possuir uma tabela para usuários e mais duas tabelas adicionais, totalizando no mínimo três tabelas. Pelo menos duas dessas tabelas devem estar relacionadas entre si através de uma chave estrangeira. O CRUD não precisa contemplar as 3 tabelas.
+
+9. Simplicidade do Frontend
+Este é um projeto de bimestre, portanto deve ser simples e focado na prática inicial dos conceitos, especialmente realcionados no backend. O frontend não será avaliado por critérios estéticos e pode ser o mais simples possível, desde que seja funcional. Para ficar claro  a simplicidade, considere as telas que o professor fez em sala de aula. Considere que alinhando os campos e acrecentando labels explicativos já é mais do que o suficiente para a disciplina.
+
+10. Escopo do Sistema
+O sistema não precisa abranger todo o tema escolhido. Ele pode representar apenas uma parte do sistema que você imaginou no seu tema, desde que cumpra com todas as regras acima.
+
+TEMA:
+Gestão de Atletas da Base: Um sistema para gerenciar informações dos atletas da base do vasco, incluindo dados pessoais, desempenho em treinos e jogos, e histórico de evolução
